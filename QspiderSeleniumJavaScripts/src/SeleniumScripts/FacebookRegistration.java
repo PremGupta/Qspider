@@ -38,6 +38,8 @@ public class FacebookRegistration {
 		
 		driver.findElement(By.xpath("//input [@id='u_0_k']")).click();
 		
+		//This is new comment added
+		
 	}
 
 }
